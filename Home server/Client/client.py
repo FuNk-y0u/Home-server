@@ -11,7 +11,7 @@ host = "192.168.1.5"
 # port
 port = 5001
 
-filename = "Rabin.zip"
+filename = "test.fnk"
 
 filesize = os.path.getsize(filename)
 
